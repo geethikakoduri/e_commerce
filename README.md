@@ -1,1 +1,2 @@
-# e_commerce
+# The E-commerce: Shoe Store is a web application that provides the user to watch various shoes according to the categories like running, best performance shoes, etc. It allow users to move their shoes to the cart and accordingly shows how much items are their in there cart and shows price as well. Contains bootstrap items like carousels, cards, etc which can be helpful for and can be used to learn new things for future references.
+[E_COM.pptx](https://github.com/geethikakoduri/e_commerce/files/12259273/E_COM.pptx)
